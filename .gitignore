@@ -1,0 +1,6 @@
+/vendor
+/.env
+/logs
+test_db.php
+test_validation.php
+composer.lock
